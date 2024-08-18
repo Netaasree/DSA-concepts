@@ -15,6 +15,6 @@ currentnode=node1
 while currentnode:
     print(currentnode.data,end="->")
     currentnode=currentnode.next
-print("null")
+print("Null")
     
 
